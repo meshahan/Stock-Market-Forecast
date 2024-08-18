@@ -1,0 +1,12 @@
+ streamlit 
+ yfinance 
+ pandas 
+ numpy 
+ matplotlib.pyplot 
+ seaborn 
+ plotly.graph_objects 
+ plotly.express 
+ datetime
+ statsmodels.tsa.seasonal  
+ statsmodels.api 
+ statsmodels.tsa.stattools  
